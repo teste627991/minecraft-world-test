@@ -1,0 +1,2 @@
+#Thu Dec 26 23:06:28 BRT 2024
+COLORED_SHADOW=true

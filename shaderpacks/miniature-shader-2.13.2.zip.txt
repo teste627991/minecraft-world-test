@@ -1,0 +1,4 @@
+#Fri Oct 04 21:43:20 BRT 2024
+shadowDistance=384.0
+shadowIntervalSize=2.0
+shadowMapResolution=4096

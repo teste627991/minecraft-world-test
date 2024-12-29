@@ -1,0 +1,3 @@
+#Fri Oct 04 23:18:07 BRT 2024
+FXAA=false
+shadowMapResolution=1536
