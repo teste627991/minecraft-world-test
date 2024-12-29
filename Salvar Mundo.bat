@@ -7,6 +7,8 @@ cd /d "%scriptDir%"
 
 git init
 
+git remote add origin https://github.com/teste627991/minecraft-world-test.git
+
 :: Add all changes to the staging area
 git add .
 
