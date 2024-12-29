@@ -9,4 +9,4 @@ cd /d "%scriptDir%"
 git checkout -- .
 
 :: Get all changes from the remote repository
-git pull origin main
+git pull origin master
