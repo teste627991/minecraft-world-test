@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except the following directories
+!saves/
+!shaderpacks/
+!.fabric/
+!resourcepacks/
+!mods/
+!.gitignore
+!Salvar Mundo.bat
+!Baixar Mundo Salvo.bat
