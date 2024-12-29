@@ -9,7 +9,7 @@ cd /d "%scriptDir%"
 git add .
 
 :: Commit the changes with a message
-git commit -m "Commit message"
+git commit -m "Saved Using Bat File"
 
 :: Push the changes to the remote repository
 git push origin main
