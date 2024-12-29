@@ -9,6 +9,9 @@ git init
 
 git remote add origin https://github.com/teste627991/minecraft-world-test.git
 
+:: switch to the main branch
+git checkout main
+
 :: Add all changes to the staging area
 git add .
 
